@@ -27,7 +27,39 @@
 
 [C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) write any application using the C# programming language on the .NET platform.
 
+[.NET on Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/dotnet/)
+
+[Top .NET Courses Online | Udemy](https://www.udemy.com/topic/net/)
+
+[Top ASP.NET Core Courses Online | Udemy](https://www.udemy.com/topic/aspnet-core/)
+
+[Learn Parallel Programming with C# and .NET | Udemy](https://www.udemy.com/course/parallel-dotnet/)
+
+[Learn to build an e-commerce app with .Net Core and Angular | Udemy](https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/)
+
+[Dependency Injection in C# and .NET with the Autofac Library | Udemy](https://www.udemy.com/course/di-ioc-dotnet/)
+
+[Modern Application Development with .NET on AWS Specialization | Coursera](https://www.coursera.org/specializations/aws-net-serverless-development)
+
+[Introducing .NET Core Course | Coursera](https://www.coursera.org/lecture/develop-windows-apps-gcp/introducing-net-core-JkSfp)
+
+[Learn .NET with Online Courses | edX](https://www.edx.org/learn/.net)
+
+[.NET Training Course | LearningTree](https://www.learningtree.com/training-directory/net-visual-studio-training/)
+
+[.NET Training: Introduction | Pluralsight](https://www.pluralsight.com/courses/becoming-dotnet-developer)
+
 # .NET Tools and Frameworks
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
+[Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references etc.
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
@@ -36,8 +68,6 @@
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
 
 [Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
-
-[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Rider](https://www.jetbrains.com/rider/) is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.
 

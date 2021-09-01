@@ -19,13 +19,13 @@
 
 [.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
 
+[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 [Getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
 
 [.NET Application Architecture Guide](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 
 [Intro .NET Guide by JetBrains ](https://blog.jetbrains.com/dotnet/2020/07/09/introducing-the-net-guide-tutorials-and-tips-tricks-for-net-rider-and-resharper/)
-
-[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) write any application using the C# programming language on the .NET platform.
 
 [.NET on Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/dotnet/)
 

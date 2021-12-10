@@ -61,7 +61,7 @@
 
 [.NET Training: Introduction | Pluralsight](https://www.pluralsight.com/courses/becoming-dotnet-developer)
 
-# .NET Tools and Frameworks
+# .NET Development
 [Back to the Top](https://github.com/mikeroyal/dotNET-Guide#table-of-contents)
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
